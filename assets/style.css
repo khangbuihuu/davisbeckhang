@@ -1,112 +1,112 @@
 body {
-    width: 357px;
+  width: 357px;
 }
 
 .area {
-    display: flex;
-    top: 0px;
-    left: 0px;
-    width: 375px;
-    height: 104px;
+  display: flex;
+  top: 0px;
+  left: 0px;
+  width: 375px;
+  height: 104px;
 }
 
-.area>h1 {
-    top: 41px;
-    left: 36px;
-    width: 215px;
-    height: 25px;
-    font-size: 21px;
-    text-align: left;
-    font: normal normal bold 21px/30px Raleway;
-    padding: 40px 0 0 36px;
+.area > h1 {
+  top: 41px;
+  left: 36px;
+  width: 215px;
+  height: 25px;
+  font-size: 21px;
+  text-align: left;
+  font: normal normal bold 21px/30px Raleway;
+  padding: 40px 0 0 36px;
 }
 
 .icon {
-    padding: 40px 0 0 21px;
+  padding: 40px 0 0 21px;
 }
 
 .menu {
-    padding: 40px 0 0 18px;
+  padding: 40px 0 0 18px;
 }
 
-.menu>img {
-    top: 44px;
-    left: 314px;
-    width: 24px;
-    height: 29px
+.menu > img {
+  top: 44px;
+  left: 314px;
+  width: 24px;
+  height: 29px;
 }
 
 .background1 {
-    top: 104px;
-    left: 0px;
-    width: 375px;
-    height: 708px;
-    background-image: url(../img/bg6.png);
+  top: 104px;
+  left: 0px;
+  width: 375px;
+  height: 708px;
+  background-image: url(../img/bg6.png);
 }
 
-.background1>h1 {
-    top: 469px;
-    left: 36px;
-    width: 302px;
-    height: 103px;
-    /* UI Properties */
-    text-align: left;
-    font: normal normal bold 42px/54px Raleway;
-    letter-spacing: 0.42px;
-    color: #CF755A;
-    padding: 365px 37px 0 36px;
-    margin: 0;
+.background1 > h1 {
+  top: 469px;
+  left: 36px;
+  width: 302px;
+  height: 103px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal bold 42px/54px Raleway;
+  letter-spacing: 0.42px;
+  color: #cf755a;
+  padding: 365px 37px 0 36px;
+  margin: 0;
 }
 
-.background1>p {
-    top: 588px;
-    left: 36px;
-    width: 302px;
-    height: 96px;
-    /* UI Properties */
-    text-align: left;
-    font: normal normal 600 16px/25px Raleway;
-    letter-spacing: 0.32px;
-    color: #000000;
-    padding: 46px 37px 0 36px;
+.background1 > p {
+  top: 588px;
+  left: 36px;
+  width: 302px;
+  height: 96px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal 600 16px/25px Raleway;
+  letter-spacing: 0.32px;
+  color: #000000;
+  padding: 46px 37px 0 36px;
 }
 
 .bnt {
-    padding: 24px 139px 0 36px;
+  padding: 24px 139px 0 36px;
 }
 
-.bnt>button {
-    top: 708px;
-    left: 36px;
-    width: 200px;
-    height: 48px;
-    background-color: #CF755A;
-    border: none;
+.bnt > button {
+  top: 708px;
+  left: 36px;
+  width: 200px;
+  height: 48px;
+  background-color: #cf755a;
+  border: none;
 }
 
 .background2 {
-    top: 812px;
-    left: 0.4920937418937683px;
-    width: 375px;
-    height: 626px;
-    /* UI Properties */
-    background: #AEC1BA 0% 0% no-repeat padding-box;
-    opacity: 1;
-    background-color: #AEC1BA;
+  top: 812px;
+  left: 0.4920937418937683px;
+  width: 375px;
+  height: 626px;
+  /* UI Properties */
+  background: #aec1ba 0% 0% no-repeat padding-box;
+  opacity: 1;
+  background-color: #aec1ba;
 }
 
-.background2>h1 {
-    top: 871px;
-    left: 94px;
-    width: 188px;
-    height: 88px;
-    /* UI Properties */
-    text-align: center;
-    font: normal normal bold 35px/47px Raleway;
-    letter-spacing: 0.7px;
-    color: #000000;
-    opacity: 1;
-    padding: 59px 93px 0 93px;
+.background2 > h1 {
+  top: 871px;
+  left: 94px;
+  width: 188px;
+  height: 88px;
+  /* UI Properties */
+  text-align: center;
+  font: normal normal bold 35px/47px Raleway;
+  letter-spacing: 0.7px;
+  color: #000000;
+  opacity: 1;
+  padding: 59px 93px 0 93px;
 }
 
 .list-icon1,
@@ -115,443 +115,442 @@ body {
 .list-icon4,
 .list-icon5,
 .list-icon6 {
-    top: 996px;
-    left: 84px;
-    width: 48px;
-    height: 48px;
-    /* UI Properties */
-    background: #CF755A 0% 0% no-repeat padding-box;
-    border-radius: 1000px;
+  top: 996px;
+  left: 84px;
+  width: 48px;
+  height: 48px;
+  /* UI Properties */
+  background: #cf755a 0% 0% no-repeat padding-box;
+  border-radius: 1000px;
 }
 
 .list,
 .list2,
 .list3,
 .list-type {
-    display: flex;
+  display: flex;
 }
 
 .list-type {
-    padding-left: 46px;
+  padding-left: 60px;
 }
 
-.list-type>p {
-    padding-top: 18px;
-    padding-right: 40px;
+.list-type > p {
+  padding-top: 18px;
+  padding-right: 50px;
 }
 
 .background3 {
-    top: 1438px;
-    left: 0px;
-    width: 375px;
-    height: 1022px;
+  top: 1438px;
+  left: 0px;
+  width: 375px;
+  height: 1022px;
 }
 
-.background3>h1 {
-    top: 1494px;
-    left: 36px;
-    width: 302px;
-    height: 88px;
-    /* UI Properties */
-    text-align: left;
-    font: normal normal bold 35px/47px Raleway;
-    letter-spacing: 0.7px;
-    color: #000000;
-    padding: 56px 36px 0 36px;
+.background3 > h1 {
+  top: 1494px;
+  left: 36px;
+  width: 302px;
+  height: 88px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal bold 35px/47px Raleway;
+  letter-spacing: 0.7px;
+  color: #000000;
+  padding: 56px 36px 0 36px;
 }
 
-.background3>p {
-    top: 1598px;
-    left: 36px;
-    width: 302px;
-    height: 152px;
-    /* UI Properties */
-    text-align: left;
-    font: normal normal normal 16px/26px Source Serif Pro;
-    letter-spacing: 0.48px;
-    color: #737373;
-    padding: 16px 0 37px 36px;
+.background3 > p {
+  top: 1598px;
+  left: 36px;
+  width: 302px;
+  height: 152px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal normal 16px/26px Source Serif Pro;
+  letter-spacing: 0.48px;
+  color: #737373;
+  padding: 16px 0 37px 36px;
 }
 
-.media>img {
-    top: 1790px;
-    left: 37px;
-    width: 302px;
-    height: 200px;
-    padding: 40px 37px 0 36px;
+.media > img {
+  top: 1790px;
+  left: 37px;
+  width: 302px;
+  height: 200px;
+  padding: 40px 37px 0 36px;
 }
 
-.background3>h3 {
-    top: 2016px;
-    left: 36px;
-    width: 130px;
-    height: 30px;
-    /* UI Properties */
-    text-align: center;
-    font: normal normal bold 20px/35px Raleway;
-    letter-spacing: 0.35px;
-    color: #000000;
-    padding: 26px 209px 0 30px;
+.background3 > h3 {
+  top: 2016px;
+  left: 36px;
+  width: 130px;
+  height: 30px;
+  /* UI Properties */
+  text-align: center;
+  font: normal normal bold 20px/35px Raleway;
+  letter-spacing: 0.35px;
+  color: #000000;
+  padding: 26px 209px 0 20px;
 }
 
 a {
-    top: 2057px;
-    left: 37px;
-    width: 86px;
-    height: 19px;
-    /* UI Properties */
-    text-align: left;
-    font: normal normal 600 15px/25px Raleway;
-    letter-spacing: 0px;
-    color: #CF755A;
-    text-decoration: none;
+  top: 2057px;
+  left: 37px;
+  width: 86px;
+  height: 19px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal 600 15px/25px Raleway;
+  letter-spacing: 0px;
+  color: #cf755a;
+  text-decoration: none;
 
-    padding: 11px 202px 0 36px;
+  padding: 11px 202px 0 36px;
 }
 
 .background4 {
-    top: 2460px;
-    left: 0px;
-    width: 375px;
-    height: 1322px;
-    /* UI Properties */
-    background: #AEC1BA 0% 0% no-repeat padding-box;
+  top: 2460px;
+  left: 0px;
+  width: 375px;
+  height: 1322px;
+  /* UI Properties */
+  background: #aec1ba 0% 0% no-repeat padding-box;
 }
 
-.background4>h1 {
-    top: 2516px;
-    left: 36px;
-    width: 302px;
-    height: 88px;
-    /* UI Properties */
-    text-align: left;
-    font: normal normal bold 35px/47px Raleway;
-    letter-spacing: 0.7px;
-    color: #000000;
-    padding: 56px 36px 0 36px;
+.background4 > h1 {
+  top: 2516px;
+  left: 36px;
+  width: 302px;
+  height: 88px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal bold 35px/47px Raleway;
+  letter-spacing: 0.7px;
+  color: #000000;
+  padding: 56px 36px 0 36px;
 }
 
-.background4>p {
-    top: 2620px;
-    left: 36px;
-    width: 302px;
-    height: 152px;
-    /* UI Properties */
-    text-align: left;
-    font: normal normal normal 16px/26px Source Serif Pro;
-    letter-spacing: 0.48px;
-    color: #737373;
-    padding: 16px 37px 0 36px;
+.background4 > p {
+  top: 2620px;
+  left: 36px;
+  width: 302px;
+  height: 152px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal normal 16px/26px Source Serif Pro;
+  letter-spacing: 0.48px;
+  color: #737373;
+  padding: 16px 37px 0 36px;
 }
 
-.background4>h3 {
-    top: 3040px;
-    left: 37px;
-    width: 113px;
-    height: 19px;
-    /* UI Properties */
-    text-align: left;
-    font: normal normal 600 14px/25px Raleway;
-    letter-spacing: 0.32px;
-    color: #000000;
-    padding: 28px 255px 0 37px;
+.background4 > h3 {
+  top: 3040px;
+  left: 37px;
+  width: 113px;
+  height: 19px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal 600 14px/25px Raleway;
+  letter-spacing: 0.32px;
+  color: #000000;
+  padding: 28px 255px 0 37px;
 }
 
-.background4>h4 {
-    top: 3068px;
-    left: 37px;
-    width: 39px;
-    height: 22px;
-    /* UI Properties */
-    text-align: left;
-    font: normal normal normal 16px/26px Source Serif Pro;
-    letter-spacing: 0.48px;
-    color: #737373;
-    padding: 9px 299px 0 37px;
+.background4 > h4 {
+  top: 3068px;
+  left: 37px;
+  width: 39px;
+  height: 22px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal normal 16px/26px Source Serif Pro;
+  letter-spacing: 0.48px;
+  color: #737373;
+  padding: 9px 299px 0 37px;
 }
 
 .background5 {
-    top: 3782px;
-    left: 0px;
-    width: 375px;
-    height: 600px;
-    background-image: url(../img/bg1.png);
+  top: 3782px;
+  left: 0px;
+  width: 375px;
+  height: 600px;
+  background-image: url(../img/bg1.png);
 }
 
-.background5>h1 {
-    top: 4012px;
-    left: 36px;
-    width: 302px;
-    height: 130px;
-    /* UI Properties */
-    text-align: left;
-    font: normal normal bold 35px/47px Raleway;
-    letter-spacing: 0.7px;
-    color: #000000;
-    padding: 230px 36px 0 37px;
+.background5 > h1 {
+  top: 4012px;
+  left: 36px;
+  width: 302px;
+  height: 130px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal bold 35px/47px Raleway;
+  letter-spacing: 0.7px;
+  color: #000000;
+  padding: 230px 36px 0 37px;
 }
 
-.background5>p {
-    top: 4158px;
-    left: 36px;
-    width: 302px;
-    height: 96px;
-    /* UI Properties */
-    text-align: left;
-    font: normal normal 600 16px/25px Raleway;
-    letter-spacing: 0.32px;
-    color: #000000;
-    padding: 16px 37px 0 36px;
+.background5 > p {
+  top: 4158px;
+  left: 36px;
+  width: 302px;
+  height: 96px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal 600 16px/25px Raleway;
+  letter-spacing: 0.32px;
+  color: #000000;
+  padding: 16px 37px 0 36px;
 }
 
 .background6 {
-    top: 2460px;
-    left: 0px;
-    width: 375px;
-    height: 1322px;
-    /* UI Properties */
+  top: 2460px;
+  left: 0px;
+  width: 375px;
+  height: 1322px;
+  /* UI Properties */
 }
 
-
-.background6>h1 {
-    top: 2516px;
-    left: 36px;
-    width: 302px;
-    height: 88px;
-    /* UI Properties */
-    text-align: left;
-    font: normal normal bold 35px/47px Raleway;
-    letter-spacing: 0.7px;
-    color: #000000;
-    padding: 56px 36px 0 36px;
+.background6 > h1 {
+  top: 2516px;
+  left: 36px;
+  width: 302px;
+  height: 88px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal bold 35px/47px Raleway;
+  letter-spacing: 0.7px;
+  color: #000000;
+  padding: 56px 36px 0 36px;
 }
 
-.background6>p {
-    top: 2620px;
-    left: 36px;
-    width: 302px;
-    height: 152px;
-    /* UI Properties */
-    text-align: left;
-    font: normal normal normal 16px/26px Source Serif Pro;
-    letter-spacing: 0.48px;
-    color: #737373;
-    padding: 16px 37px 0 36px;
+.background6 > p {
+  top: 2620px;
+  left: 36px;
+  width: 302px;
+  height: 152px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal normal 16px/26px Source Serif Pro;
+  letter-spacing: 0.48px;
+  color: #737373;
+  padding: 16px 37px 0 36px;
 }
 
-.background6>h3 {
-    top: 3040px;
-    left: 37px;
-    width: 113px;
-    height: 19px;
-    /* UI Properties */
-    text-align: left;
-    font: normal normal 600 14px/25px Raleway;
-    letter-spacing: 0.32px;
-    color: #000000;
-    padding: 28px 0px 0 37px;
+.background6 > h3 {
+  top: 3040px;
+  left: 37px;
+  width: 113px;
+  height: 19px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal 600 14px/25px Raleway;
+  letter-spacing: 0.32px;
+  color: #000000;
+  padding: 28px 0px 0 37px;
 }
 
-.background6>h4 {
-    top: 3068px;
-    left: 37px;
-    width: 39px;
-    height: 22px;
-    /* UI Properties */
-    text-align: left;
-    font: normal normal normal 16px/26px Source Serif Pro;
-    letter-spacing: 0.48px;
-    color: #737373;
-    padding: 9px 299px 0 37px;
+.background6 > h4 {
+  top: 3068px;
+  left: 37px;
+  width: 39px;
+  height: 22px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal normal 16px/26px Source Serif Pro;
+  letter-spacing: 0.48px;
+  color: #737373;
+  padding: 9px 299px 0 37px;
 }
 
 .background7 {
-    top: 5704px;
-    left: 0px;
-    width: 375px;
-    height: 586px;
-    /* UI Properties */
-    background: #D8D5BF 0% 0% no-repeat padding-box;
+  top: 5704px;
+  left: 0px;
+  width: 375px;
+  height: 586px;
+  /* UI Properties */
+  background: #d8d5bf 0% 0% no-repeat padding-box;
 }
 
-.background7>h1 {
-    top: 5760px;
-    left: 36px;
-    width: 322px;
-    height: 46px;
-    /* UI Properties */
-    text-align: left;
-    font: normal normal bold 32px/47px Raleway;
-    letter-spacing: 0.7px;
-    color: #000000;
-    padding: 56px 0px 0 36px;
+.background7 > h1 {
+  top: 5760px;
+  left: 36px;
+  width: 322px;
+  height: 46px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal bold 32px/47px Raleway;
+  letter-spacing: 0.7px;
+  color: #000000;
+  padding: 56px 0px 0 36px;
 }
 
-.background7>p {
-    top: 6062px;
-    left: 36px;
-    width: 302px;
-    height: 100px;
-    /* UI Properties */
-    text-align: center;
-    font: normal normal normal 16px/26px Source Serif Pro;
-    letter-spacing: 0.48px;
-    color: #A1A1A1;
-    padding: 16px 37px 0 36px;
+.background7 > p {
+  top: 6062px;
+  left: 36px;
+  width: 302px;
+  height: 100px;
+  /* UI Properties */
+  text-align: center;
+  font: normal normal normal 16px/26px Source Serif Pro;
+  letter-spacing: 0.48px;
+  color: #a1a1a1;
+  padding: 16px 37px 0 36px;
 }
 
 .background8 {
-    /* Layout Properties */
-    top: 6290px;
-    left: 0px;
-    width: 375px;
-    height: 1791px;
-    /* UI Properties */
-    background: #FFFFFF 0% 0% no-repeat padding-box;
+  /* Layout Properties */
+  top: 6290px;
+  left: 0px;
+  width: 375px;
+  height: 1791px;
+  /* UI Properties */
+  background: #ffffff 0% 0% no-repeat padding-box;
 }
 
-.background8>h1 {
-    top: 6346px;
-    left: 36px;
-    width: 302px;
-    height: 46px;
-    /* UI Properties */
-    text-align: left;
-    font: normal normal bold 35px/47px Raleway;
-    letter-spacing: 0.7px;
-    color: #000000;
-    padding: 56px 36px 0 36px;
+.background8 > h1 {
+  top: 6346px;
+  left: 36px;
+  width: 302px;
+  height: 46px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal bold 35px/47px Raleway;
+  letter-spacing: 0.7px;
+  color: #000000;
+  padding: 56px 36px 0 36px;
 }
 
-.background8>p {
-    top: 6408px;
-    left: 36px;
-    width: 302px;
-    height: 152px;
-    text-align: left;
-    font: normal normal normal 16px/26px Source Serif Pro;
-    letter-spacing: 0.48px;
-    color: #737373;
-    opacity: 1;
-    padding: 16px 36px 0 36px;
+.background8 > p {
+  top: 6408px;
+  left: 36px;
+  width: 302px;
+  height: 152px;
+  text-align: left;
+  font: normal normal normal 16px/26px Source Serif Pro;
+  letter-spacing: 0.48px;
+  color: #737373;
+  opacity: 1;
+  padding: 16px 36px 0 36px;
 }
 
-.background8>h4 {
-    top: 7280px;
-    left: 41px;
-    width: 200px;
-    height: 16px;
-    /* UI Properties */
-    text-align: center;
-    font: normal normal bold 14px/21px Raleway;
-    letter-spacing: 0.14px;
-    color: #000000;
-    padding: 25px 0 0 21px;
+.background8 > h4 {
+  top: 7280px;
+  left: 41px;
+  width: 200px;
+  height: 16px;
+  /* UI Properties */
+  text-align: center;
+  font: normal normal bold 14px/21px Raleway;
+  letter-spacing: 0.14px;
+  color: #000000;
+  padding: 25px 0 0 5px;
 }
 
-.background8>h3 {
-    top: 7305px;
-    left: 37px;
-    width: 302px;
-    height: 55px;
-    /* UI Properties */
-    text-align: left;
-    font: normal normal bold 21px/30px Raleway;
-    letter-spacing: 0.08px;
-    color: #000000;
-    padding: 9px 0 0 37px;
+.background8 > h3 {
+  top: 7305px;
+  left: 37px;
+  width: 302px;
+  height: 55px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal bold 21px/30px Raleway;
+  letter-spacing: 0.08px;
+  color: #000000;
+  padding: 9px 0 0 37px;
 }
 
 .background9 {
-    top: 7981px;
-    left: 0px;
-    width: 375px;
-    height: 330px;
-    background-color: #D8D5BF;
+  top: 7981px;
+  left: 0px;
+  width: 375px;
+  height: 330px;
+  background-color: #d8d5bf;
 }
 
-.background9>h1 {
-    top: 8037px;
-    left: 36px;
-    width: 302px;
-    height: 130px;
-    /* UI Properties */
-    text-align: center;
-    font: normal normal bold 35px/47px Raleway;
-    letter-spacing: 0.7px;
-    color: #000000;
-    padding: 56px 37px 0 36px;
+.background9 > h1 {
+  top: 8037px;
+  left: 36px;
+  width: 302px;
+  height: 130px;
+  /* UI Properties */
+  text-align: center;
+  font: normal normal bold 35px/47px Raleway;
+  letter-spacing: 0.7px;
+  color: #000000;
+  padding: 56px 37px 0 36px;
 }
 
 .bnt1 {
-    padding: 40px 0 0 36px;
+  padding: 40px 0 0 36px;
 }
 
-.bnt1>button {
-    top: 8207px;
-    left: 36px;
-    width: 302px;
-    height: 48px;
-    background-color: #CF755A;
-    border: none;
-    font: normal normal bold 16px/19px Raleway;
-    letter-spacing: 0.64px;
-    color: #FFFFFF;
+.bnt1 > button {
+  top: 8207px;
+  left: 36px;
+  width: 302px;
+  height: 48px;
+  background-color: #cf755a;
+  border: none;
+  font: normal normal bold 16px/19px Raleway;
+  letter-spacing: 0.64px;
+  color: #ffffff;
 }
 
 .background10 {
-    top: 8311px;
-    left: 0px;
-    width: 375px;
-    height: 503px;
-    /* UI Properties */
-    background: #AEC1BA 0% 0% no-repeat padding-box;
+  top: 8311px;
+  left: 0px;
+  width: 375px;
+  height: 503px;
+  /* UI Properties */
+  background: #aec1ba 0% 0% no-repeat padding-box;
 }
 
-.background10>h1 {
-    top: 8409px;
-    left: 36px;
-    width: 300px;
-    height: 30px;
-    /* UI Properties */
-    text-align: left;
-    font: normal normal bold 25px/35px Raleway;
-    letter-spacing: 0.35px;
-    color: #000000;
-    padding: 98px 0 0 36px;
+.background10 > h1 {
+  top: 8409px;
+  left: 36px;
+  width: 300px;
+  height: 30px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal bold 25px/35px Raleway;
+  letter-spacing: 0.35px;
+  color: #000000;
+  padding: 98px 0 0 36px;
 }
 
-.background10>address {
-    top: 8464px;
-    left: 36px;
-    width: 224px;
-    height: 66px;
-    /* UI Properties */
-    text-align: left;
-    font: normal normal 600 16px/25px Raleway;
-    letter-spacing: 0.32px;
-    color: #000000;
-    padding: 25px 0 0 36px;
+.background10 > address {
+  top: 8464px;
+  left: 36px;
+  width: 224px;
+  height: 66px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal 600 16px/25px Raleway;
+  letter-spacing: 0.32px;
+  color: #000000;
+  padding: 25px 0 0 36px;
 }
 
-.background10>p {
-    top: 8578px;
-    left: 36px;
-    width: 302px;
-    height: 44px;
-    /* UI Properties */
-    text-align: left;
-    font: normal normal 600 16px/25px Raleway;
-    letter-spacing: 0.32px;
-    color: #000000;
-    padding: 48px 0 0 36px;
+.background10 > p {
+  top: 8578px;
+  left: 36px;
+  width: 302px;
+  height: 44px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal 600 16px/25px Raleway;
+  letter-spacing: 0.32px;
+  color: #000000;
+  padding: 48px 0 0 36px;
 }
 
 .list-media1 {
-    display: flex;
-    padding: 48px 0 0 0px;
+  display: flex;
+  padding: 48px 0 0 0px;
 }
 
-.list-media1>a {
-    padding-right: 0px;
+.list-media1 > a {
+  padding-right: 0px;
 }
