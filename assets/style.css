@@ -254,7 +254,8 @@ a {
   font: normal normal 600 14px/25px Raleway;
   letter-spacing: 0.32px;
   color: #000000;
-  padding: 28px 0px 0px 37px;
+  padding-top: 36px;
+  margin-left: 36px;
 }
 
 .background4 > h4 {
