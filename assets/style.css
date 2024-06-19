@@ -2,7 +2,9 @@ body {
   width: 357px;
   font-size: 16px;
 }
-
+.container {
+    margin-left: 12px;
+}
 .area {
   display: flex;
   top: 0px;
